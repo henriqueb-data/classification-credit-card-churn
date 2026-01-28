@@ -12,7 +12,7 @@ Predict customer churn for a credit-card issuer using machine learning classific
 
 ## 🧭 Context  
 Customer churn significantly impacts profitability for credit-card companies.  
-Identifying high-risk customers enables proactive retention strategies—such as targeted offers, improved onboarding, or engagement campaigns—reducing revenue loss and improving customer lifetime value.  
+Identifying high-risk customers enables proactive retention strategies, such as targeted offers, improved onboarding, or engagement campaigns, thus reducing revenue loss and improving customer lifetime value.  
 
 This project demonstrates an end-to-end machine learning workflow to predict churn and extract meaningful behavioral insights.
 
