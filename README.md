@@ -1,4 +1,4 @@
-# 📘 Credit Card Churn Classification  
+# 📘 Credit Card Churn - Classification  
 Predict customer churn for a credit-card issuer using machine learning classification models.
 
 ---
