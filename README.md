@@ -36,6 +36,7 @@ This project demonstrates an end-to-end machine learning workflow to predict chu
   - Label encoding / one-hot encoding  
   - Standardization of numerical features  
   - Handling outliers and skewness
+  - Train/test split 
 
 - **Resampling (Class Balancing):**  
   - Techniques such as **downsampling (RandomUnderSampler)** or **oversampling (SMOTE)** to mitigate imbalance
@@ -46,8 +47,7 @@ This project demonstrates an end-to-end machine learning workflow to predict chu
   - XGBoost
   - Model comparison using classification metrics
 
-- **Techniques:**  
-  - Train/test split  
+- **Techniques:**   
   - Cross-validation  
   - Hyperparameter tuning  
   - Feature importance analysis  
